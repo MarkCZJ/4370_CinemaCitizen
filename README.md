@@ -84,4 +84,5 @@ or
 https://www.bluehost.com/?clickid=V74Xh13tTz4eRn0TSqU56R3JUkAVWqWPUzA%3Azk0&irgwc=1&pb=&irpid=2436725&utm_medium=affiliate&utm_affiliate=&utm_affiliate_sys=IR&siteID=&iradid=1465837&utm_source=IR&utm_campaign=Mobupps_2020&channelID=P61C46097236S645N0B2A1D0E0000V100
 
 3.go to advanced setting file manager
-4.upload the file “G8themes”(means group 8 themes ) from github to “themes”
+
+4.upload the file “G8themes”(means group 8 themes ) from github to “themes” 
