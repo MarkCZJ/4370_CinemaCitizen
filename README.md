@@ -17,7 +17,7 @@ c.	things like malicious bad reviews or fake good reviews for business purposes
 	
 Objective:
 
-	#Front-end: Good Visuals and Page Layout
+#Front-end: Good Visuals and Page Layout
 #Back-end: Using a good framework and build a good API and DB that are: time efficient; safe; expandable; robust
 #In general, we want to build an app with Functional integrity, runs smoothly, and meet project requirements. 
 #Foster a community and provide a platform: The Cinema Citizen app wish to create a community of real movie enthusiasts who like to share recommendations, discuss movies, and provide a platform for them to share their reviews and ratings with others; therefore, enhance the user's movie-watching experience and maybe find like-minded thoughts or new inspirations.
